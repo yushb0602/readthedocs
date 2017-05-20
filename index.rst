@@ -1,22 +1,22 @@
 This is a Title
 ===============
+
 That has a paragraph about a main subject and is set when the '='
 is at least the same length of the title itself.
 
-Subject Subtitle
+成语字典
 ----------------
-Subtitles are set with '-' and are required to have the same length 
-of the subtitle itself, just like titles.
 
-Lists can be unnumbered like:
 
- * Item Foo
- * Item Bar
+ #. 闻过则喜，知错必改，过河卒子。
+ #. 循序渐进，循循善诱，寻根究底
+ #. 定气凝神，见微知著。
+ #. 心领神会，融会贯通
+ #. 
 
-Or automatically numbered:
+.. math::
 
- #. Item 1
- #. Item 2
+    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
 
 .. image:: a.png
 
