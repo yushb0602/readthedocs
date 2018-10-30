@@ -38,3 +38,13 @@ Inline Markup
 Words can have *emphasis in italics* or be **bold** and you can define
 code samples with back quotes, like when you talk about a command: ``sudo`` 
 gives you super user powers!
+
+1. 实现 a 列表的求和
+2. 实现 2^10，2*2...相乘10次
+3. 判断质数 prime
+4. 判断某数有多少位
+4. 1/2 + 1/4+1/8+1/16...求和
+5. 模拟硬币正反面
+6. 自学某个书本
+7. 最大值，最小值
+8. 统计字数
